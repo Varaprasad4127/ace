@@ -1,6 +1,4 @@
-// https://www.youtube.com/channel/UCaXI2PcsTlH5g0et67kdD6g  //
-// Smart Stick for Blind peoples //
-// By MOHD SOHAIL //
+
 
 const int trigPin = 3;
 const int echoPin = 2;
